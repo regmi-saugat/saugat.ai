@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": ". My name is Saugat Regmi, a Computer Science student at Tribhuwan University, Nepal. I am a Python loving Data Science and Machine Learning Practitioner and a Life-long learner. I love to learn about new technologies. . I want to use this blog to help documenting my machine learning journey so that I can help others while also helping to solidify learnings and thoughts of my own. .",
           "url": "https://regmi-saugat.github.io/saugat.ai/about/",
           "relUrl": "/about/",
           "date": ""
