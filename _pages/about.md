@@ -6,6 +6,6 @@ permalink: /about/
 
 ![images](https://github.com/regmi-saugat/saugat.ai/blob/master/images/01_saugat.png?raw=true)
 
-My name is Saugat Regmi, a Computer Science student at Tribhuwan University, Nepal. I am a Python loving Data Science and Machine Learning Practitioner and a Life-long learner. I love to learn about new technologies.
+My name is Saugat Regmi, a Computer Science student at Tribhuwan University, Nepal. I am committed to advancing my knowledge and expertise in the field of Data Science and Machine Learning. My passion for Python programming and a desire to stay current with the latest technologies drives my curiosity and enthusiasm for learning.
 
-I want to use this blog to help documenting my machine learning journey so that I can help others while also helping to solidify learnings and thoughts of my own.
+ Through this blog, I aim to document my journey as a Machine Learning practitioner, sharing my insights and experiences with others in order to facilitate their growth and development. Additionally, I hope to use this platform to reflect on my own learnings and enhance my understanding of this rapidly evolving field.
